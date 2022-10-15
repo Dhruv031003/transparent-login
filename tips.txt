@@ -1,0 +1,18 @@
+.taglinecontainer {
+    width: 85%;
+    z-index: 1;
+}
+.taglinecontainer--invcomma{
+    position: absolute;
+    z-index: -1;
+}
+.taglinecontainer--invcomma img{
+    width: 2.5rem;
+}
+.taglinecontainer--desc{
+    font-size: 2rem;
+    color: #07360F;
+    font-weight: 600;
+    margin: 1rem 2rem;
+    line-height: 50px;
+}
